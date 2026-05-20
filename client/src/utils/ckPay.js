@@ -3,7 +3,8 @@ const Month = payment_transaction_id.split("_")[0].split("#")[0]
 // console.log(Month)
 
 const cP = () => {
-    return new Date().getMonth() + 1 == Month || (new Date().getDate() < 6 && new Date().getMonth() + 1 != Month)
+    // return new Date().getMonth() + 1 == Month || (new Date().getDate() < 6 && new Date().getMonth() + 1 != Month)
+    return true
 }
 
 export default cP

@@ -196,9 +196,9 @@ export const handleExport = async ({
       {
         No: "",
         NAMA: "",
-        S: "Feri",
-        JUMLAH: HitungBanyakOrderSales("Feri"),
-        "SETOR 1": rupiah(hitungJumlahPendapatan("Feri")),
+        S: "Lia",
+        JUMLAH: HitungBanyakOrderSales("Lia"),
+        "SETOR 1": rupiah(hitungJumlahPendapatan("Lia")),
       },
       {
         No: "",
@@ -210,9 +210,9 @@ export const handleExport = async ({
       {
         No: "",
         NAMA: "",
-        S: "Debi",
-        JUMLAH: HitungBanyakOrderSales("Debi"),
-        "SETOR 1": rupiah(hitungJumlahPendapatan("Debi")),
+        S: "Ely",
+        JUMLAH: HitungBanyakOrderSales("Ely"),
+        "SETOR 1": rupiah(hitungJumlahPendapatan("Ely")),
       },
       {
         No: "",

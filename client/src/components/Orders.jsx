@@ -64,6 +64,10 @@ const Orders = () => {
     "Rachman",
     "Agus",
     "Weni",
+    "Tim_Sales",
+    "Tim_Gudang",
+    "Tim_Toko",
+    "Bibah",
   ];
 
   const navigate = useNavigate();

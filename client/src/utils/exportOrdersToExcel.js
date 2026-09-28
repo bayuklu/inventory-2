@@ -196,23 +196,9 @@ export const handleExport = async ({
       {
         No: "",
         NAMA: "",
-        S: "Lia",
-        JUMLAH: HitungBanyakOrderSales("Lia"),
-        "SETOR 1": rupiah(hitungJumlahPendapatan("Lia")),
-      },
-      {
-        No: "",
-        NAMA: "",
         S: "Isma",
         JUMLAH: HitungBanyakOrderSales("Isma"),
         "SETOR 1": rupiah(hitungJumlahPendapatan("Isma")),
-      },
-      {
-        No: "",
-        NAMA: "",
-        S: "Ely",
-        JUMLAH: HitungBanyakOrderSales("Ely"),
-        "SETOR 1": rupiah(hitungJumlahPendapatan("Ely")),
       },
       {
         No: "",
@@ -238,13 +224,6 @@ export const handleExport = async ({
       {
         No: "",
         NAMA: "",
-        S: "Weni",
-        JUMLAH: HitungBanyakOrderSales("Weni"),
-        "SETOR 1": rupiah(hitungJumlahPendapatan("Weni")),
-      },
-      {
-        No: "",
-        NAMA: "",
         S: "Tim_Sales",
         JUMLAH: HitungBanyakOrderSales("Tim_Sales"),
         "SETOR 1": rupiah(hitungJumlahPendapatan("Tim_Sales")),
@@ -266,9 +245,51 @@ export const handleExport = async ({
       {
         No: "",
         NAMA: "",
-        S: "Bibah",
-        JUMLAH: HitungBanyakOrderSales("Bibah"),
-        "SETOR 1": rupiah(hitungJumlahPendapatan("Bibah")),
+        S: "Dika",
+        JUMLAH: HitungBanyakOrderSales("Dika"),
+        "SETOR 1": rupiah(hitungJumlahPendapatan("Dika")),
+      },
+      {
+        No: "",
+        NAMA: "",
+        S: "Hikma",
+        JUMLAH: HitungBanyakOrderSales("Hikma"),
+        "SETOR 1": rupiah(hitungJumlahPendapatan("Hikma")),
+      },
+      {
+        No: "",
+        NAMA: "",
+        S: "Novy",
+        JUMLAH: HitungBanyakOrderSales("Novy"),
+        "SETOR 1": rupiah(hitungJumlahPendapatan("Novy")),
+      },
+      {
+        No: "",
+        NAMA: "",
+        S: "Mahdi",
+        JUMLAH: HitungBanyakOrderSales("Mahdi"),
+        "SETOR 1": rupiah(hitungJumlahPendapatan("Mahdi")),
+      },
+      {
+        No: "",
+        NAMA: "",
+        S: "Azhan",
+        JUMLAH: HitungBanyakOrderSales("Azhan"),
+        "SETOR 1": rupiah(hitungJumlahPendapatan("Azhan")),
+      },
+      {
+        No: "",
+        NAMA: "",
+        S: "Zul",
+        JUMLAH: HitungBanyakOrderSales("Zul"),
+        "SETOR 1": rupiah(hitungJumlahPendapatan("Zul")),
+      },
+      {
+        No: "",
+        NAMA: "",
+        S: "Anto",
+        JUMLAH: HitungBanyakOrderSales("Anto"),
+        "SETOR 1": rupiah(hitungJumlahPendapatan("Anto")),
       },
     ];
 

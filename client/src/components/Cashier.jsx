@@ -1748,17 +1748,20 @@ const Cashier = () => {
                     <option value="Eman">Eman</option>
                     <option value="Ana">Ana</option>
                     <option value="Adam">Adam</option>
-                    <option value="Lia">Lia</option>
                     <option value="Isma">Isma</option>
-                    <option value="Ely">Ely</option>
                     <option value="Rani">Rani</option>
                     <option value="Rachman">Rachman</option>
                     <option value="Agus">Agus</option>
-                    <option value="Weni">Weni</option>
                     <option value="Tim_Sales">Tim_Sales</option>
                     <option value="Tim_Gudang">Tim_Gudang</option>
                     <option value="Tim_Toko">Tim_Toko</option>
-                    <option value="Bibah">Bibah</option>
+                    <option value="Dika">Dika</option>
+                    <option value="Hikma">Hikma</option>
+                    <option value="Novy">Novy</option>
+                    <option value="Mahdi">Mahdi</option>
+                    <option value="Azhan">Azhan</option>
+                    <option value="Zul">Zul</option>
+                    <option value="Anto">Anto</option>
                   </select>
                 </div>
                 {isStoreClicked ? (
